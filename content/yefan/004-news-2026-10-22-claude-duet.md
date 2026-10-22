@@ -12,9 +12,9 @@
 AIHOT 的 2026-10-22 日报收录 Claude Duet。原始公告日期为 2026-10-21。本稿将它与作者已经描述的内容自动化、固定风格、Google 云盘交付及人工验收经历联系起来。
 
 来源：
-1. [AIHOT 2026-10-22 日报](https://aihot.news/daily/2026-10-22)；本轮实际读取入口为 [AIHOT 日报](https://aihot.news/daily)，页面标题为“AI 日报 · 2026 年 10 月 22 日”。
+1. [AIHOT 2026-10-22 日报](https://aihot.news/daily)；本轮实际读取入口为 [AIHOT 日报](https://aihot.news/daily)，页面标题为“AI 日报 · 2026 年 10 月 22 日”。
 2. [Anthropic 官方：Introducing Claude Duet](https://claude.com/resources/articles/claude-duet)，2026-10-21。
-3. 个人背景依据：[第一轮访谈档案](../../../interviews/yefan/2026-10-19-ai-interview.md)。
+3. 个人背景依据：[第一轮访谈档案](../../interviews/yefan/2026-10-19-ai-interview.md)。
 4. 风格依据：本人在本次项目中的语音转文字原话，以及对先前模板化口播稿的直接反馈。
 5. 对标样本：[数字生命卡兹克公开文章列表及摘录](https://blog.csdn.net/khaxi)。本轮可读到列表中的多篇文章摘录；文章详情页面读取受限，不声称完成逐篇全文分析。
 
